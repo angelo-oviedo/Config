@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroBOT22
+- 👋 Hi, I’m @angelo-oviedo
 - 👀 I’m interested in Data, man I love Data.
 - 🌱 I’m currently learning Data Engineering/Data Science.
 - 💞️ I’m looking to collaborate on any project that requires my skills.
